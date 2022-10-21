@@ -1,5 +1,7 @@
-### Hi there 👋
+### :gift: Hello World :gift:
 
+![](https://komarev.com/ghpvc/?username=hal-art&color=brightgreen)
+![](https://img.shields.io/github/repo-size/hal-art/CodePocket-Public?color=orange&label=CodePocket)
 <!--
 **hal-art/hal-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

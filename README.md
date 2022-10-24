@@ -2,7 +2,6 @@
 <h3 align="left">Tracker:</h3> 
 
 ![](https://komarev.com/ghpvc/?username=hal-art&color=orange)  
-![](https://img.shields.io/github/repo-size/hal-art/CodePocket-Public?color=orange&label=CodePocket)
 
 <h3 align="left">Tools:</h3>
 

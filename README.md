@@ -1,6 +1,7 @@
 <h3 align="left">Tracker:</h3> 
 
 ![](https://komarev.com/ghpvc/?username=hal-art&color=orange)  
+![Qiita Sync](https://github.com/hal-art/Qiita/actions/workflows/qiita_sync_check.yml/badge.svg)
 
 <h3 align="left">Tools:</h3>
 

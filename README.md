@@ -29,4 +29,3 @@
 ![Discord](https://img.shields.io/badge/-Discord-202020?style=for-the-badge&logo=discord&textColor=ffffff&labelColor=00bfbf)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-202020?style=for-the-badge&logo=git&textColor=ffffff&labelColor=00bfbf)&nbsp;
 ![GNU](https://img.shields.io/badge/-GNU-202020?style=for-the-badge&logo=gnu&textColor=ffffff&labelColor=00bfbf)&nbsp;
-![](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white&style=flat)

@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=00bfbf&height=120&section=header&fontColor=ffffff&text=Intro&fontSize=48&fontAlign=90"/>  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+:%29+I+Love+to+Develop+App+and+CyberSecurity)](https://git.io/typing-svg)
+
 <h3 align="left">Tracker:</h3> 
 
 ![](https://komarev.com/ghpvc/?username=hal-art&color=orange)  

@@ -6,6 +6,12 @@
 A junior windows app developer from JP.  
 I'm self-taught in Android application development and HackTheBox!
 
+## About me
+![ProfileViews](https://komarev.com/ghpvc/?username=hal-art&color=00bfbf)
+
+<img src="https://github-readme-stats.vercel.app/api?username=hal-art&show_icons=true&theme=transparent&border_radius=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=hal-art&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 ## Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-202020?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-202020?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=5C2D91)&nbsp;
@@ -27,14 +33,6 @@ I'm self-taught in Android application development and HackTheBox!
 ![Python](https://img.shields.io/badge/-Python-202020?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)&nbsp;
 ![XML](https://img.shields.io/badge/-XML-202020?style=for-the-badge&logo=xaml&logoColor=white&labelColor=1575F9)&nbsp;
 ![XAML](https://img.shields.io/badge/-XAML-202020?style=for-the-badge&logo=xaml&logoColor=white&labelColor=1575F9)&nbsp;
-![MVVM](https://img.shields.io/badge/-MVVM-202020?style=for-the-badge&&textColor=ffffff&labelColor=00bfbf)
-
-<div align="center">  
-  <imge width="45%" height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hal-art&theme=github_dark" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hal-art&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+![MVVM](https://img.shields.io/badge/-MVVM-202020?style=for-the-badge&&textColor=ffffff&labelColor=00bfbf)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=125&section=footer&fontColor=ffffff"/>  

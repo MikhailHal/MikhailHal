@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=125&section=header&fontColor=ffffff&text=Welcome+To+My+Page!&fontSize=48&fontAlignY=45"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=125&section=header&fontColor=ffffff&text=Welcome+To+My+Page!&fontSize=48&fontAlignY=45"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+:%29+I+Love+to+Develop+App+and+CyberSecurity)](https://git.io/typing-svg)
+
 
 # WhoAmI ?
 A junior windows app developer from JP.  
@@ -9,8 +10,19 @@ I'm self-taught in Android application development and HackTheBox!
 ## About me
 ![ProfileViews](https://komarev.com/ghpvc/?username=hal-art&color=00bfbf)
 
-<img src="https://github-readme-stats.vercel.app/api?username=hal-art&show_icons=true&theme=transparent&border_radius=10" />
-<img src="https://github-profile-trophy.vercel.app/?username=hal-art&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="center">
+  <img src="https://github.com/hal-art/hal-art/assets/113904272/485b1cf4-c96d-444b-ad2c-0651a3f36a9e" alt="KurokawaAkane" />
+</p>
+<br>
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=hal-art&show_icons=true&theme=transparent&border_radius=10" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=hal-art&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /></td>
+    </tr>
+  </table>
+</p>
+
 
 ## Tools
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-202020?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)&nbsp;

@@ -4,8 +4,7 @@
 
 
 # WhoAmI ?
-A junior windows app developer from JP.  
-I'm self-taught in Android application development and HackTheBox!
+A junior android app developer from JP.  
 
 ## About me
 ![ProfileViews](https://komarev.com/ghpvc/?username=hal-art&color=82A9DA)

@@ -11,10 +11,6 @@ I'm self-taught in Android application development and HackTheBox!
 ![ProfileViews](https://komarev.com/ghpvc/?username=hal-art&color=82A9DA)
 
 <p align="center">
-  <img src="https://github.com/hal-art/hal-art/assets/113904272/485b1cf4-c96d-444b-ad2c-0651a3f36a9e" alt="KurokawaAkane" />
-</p>
-<br>
-<p align="center">
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=hal-art&show_icons=true&theme=transparent&border_radius=10" /></td>

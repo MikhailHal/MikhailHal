@@ -7,13 +7,13 @@
 A junior android app developer from JP.  
 
 ## About me
-![ProfileViews](https://komarev.com/ghpvc/?username=hal-art&color=82A9DA)
+![ProfileViews](https://komarev.com/ghpvc/?username=aoi-sky13lue&color=82A9DA)
 
 <p align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=hal-art&show_icons=true&theme=transparent&border_radius=10" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=hal-art&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=aoi-sky13lue&show_icons=true&theme=transparent&border_radius=10" /></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=aoi-sky13lue&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /></td>
     </tr>
   </table>
 </p>

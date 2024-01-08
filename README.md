@@ -3,6 +3,7 @@ $ cat ~/usr/aoi/me
 username : aoi-stella
 age : 22
 from : japan
+job : mobile app(android/ios) engineer
 ```
 
 # My Skills

@@ -13,26 +13,65 @@ from : jp
 job : mobile application developer
 ```
 
+<div align="center">
+<samp>
+
 # tech
-## Languages
+## languages
+
+</samp>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cs,python,kotlin,md,)](https://skillicons.dev)
 
-## Editor
+<div align="center">
+<samp>
+
+## editor
+
+</samp>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,visualstudio,vscode,vim,idea,)](https://skillicons.dev)
 
-## Backend
+<div align="center">
+<samp>
+
+## backend
+
+</samp>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,firebase)](https://skillicons.dev)
 
-## Version Control
+<div align="center">
+<samp>
+
+## version control
+
+</samp>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
-## SNS
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,twitter)](https://skillicons.dev)
+<div align="center">
+<samp>
 
-## Etc
+## etc
+
+</samp>
+</div>
+
 [![My Skills](https://skillicons.dev/icons?i=bots,figma,docker,gmail,gradle,linux,powershell,selenium,materialui&perline=5)](https://skillicons.dev)
 
+<div align="center">
+<samp>
+
 # contact
+
+</samp>
+</div>
+
 ![Discord](https://discord.c99.nl/widget/theme-3/1060551006326370389.png)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoi_sec)  
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/aoi-stella)

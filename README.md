@@ -12,6 +12,9 @@ age : 22
 from : jp
 job : mobile application developer
 ```
+![Discord](https://discord.c99.nl/widget/theme-3/1060551006326370389.png)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoi_sec)  
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/aoi-stella)
 
 <div align="center">
 <samp>
@@ -65,13 +68,3 @@ job : mobile application developer
 [![My Skills](https://skillicons.dev/icons?i=bots,figma,docker,gmail,gradle,linux,powershell,selenium,materialui&perline=5)](https://skillicons.dev)
 
 <div align="center">
-<samp>
-
-# contact
-
-</samp>
-</div>
-
-![Discord](https://discord.c99.nl/widget/theme-3/1060551006326370389.png)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aoi_sec)  
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/aoi-stella)

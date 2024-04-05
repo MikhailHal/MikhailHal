@@ -24,8 +24,9 @@ job : mobile application developer
 1. IPA - 基本情報技術者試験
 2. IPA - 応用情報技術者試験
 3. IPA - 情報処理安全確保支援士
-4. Google - Google Cloud Digital Leader
-5. Google - Google Cloud Associate Cloud Engineer
+4. Google - Google Cloud Certified Digital Leader
+5. Google - Google Cloud Certified Associate Cloud Engineer
+6. Google - Google Cloud Certified Professional Security Engineer
 
 <div align="center">
 <samp>

@@ -1,19 +1,14 @@
 <div align="center">
 <samp>
 
-# whoami
-
+# Hello World!
+I'm working in Nishi-Shinjuku as an Android developer.  
+I especially like developing a mobile application can influence many people!  
+I've also developed iOS applications as a hobby!!
 </samp>
 </div>
 
-```bash
-name : αoi
-age : 22
-from : jp
-job : mobile application developer
-```
-
-# qualifications
+# Qualifications
 
 </samp>
 </div>
@@ -24,6 +19,7 @@ job : mobile application developer
 4. Google - Google Cloud Certified Digital Leader
 5. Google - Google Cloud Certified Associate Cloud Engineer
 6. Google - Google Cloud Certified Professional Security Engineer
+7. IIBC - TOEIC L&R 675
 
 <div align="center">
 <samp>

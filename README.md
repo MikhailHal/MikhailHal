@@ -17,7 +17,7 @@ I've also developed iOS applications as a hobby!!
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,apple)](https://skillicons.dev)
 
 ## Cloud
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,firebase)](https://skillicons.dev)
 
 ## Version control
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)

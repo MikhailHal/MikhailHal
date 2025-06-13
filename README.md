@@ -25,7 +25,7 @@ I've also developed iOS applications as a hobby!!
 ## Design
 [![My Skills](https://skillicons.dev/icons?i=figma,materialui)](https://skillicons.dev)
 
-## Qualification
+## Certifications
 __・基本情報技術者試験__  
 __・応用情報技術者試験__  
 __・情報処理安全確保支援士__  

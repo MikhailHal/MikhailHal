@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Welcome to my README!
+# Welcome to my README!
 
 **Android Software Engineer** at [@bizreach-inc](https://github.com/bizreach-inc)  
 The biggest HRTech company in Japan 🇯🇵

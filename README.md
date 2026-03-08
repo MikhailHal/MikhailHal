@@ -3,7 +3,6 @@
 # Welcome to my README!
 
 **Android Software Engineer** at [@bizreach-inc](https://github.com/bizreach-inc)  
-The biggest HRTech company in Japan 🇯🇵
 
 <br>
 

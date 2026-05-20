@@ -2,7 +2,7 @@
 
 # Welcome to my README!
 
-**Android Software Engineer** at [@bizreach-inc](https://github.com/bizreach-inc)  
+**Software Engineer, Android** at [@bizreach-inc](https://github.com/bizreach-inc)  
 
 <br>
 

@@ -13,8 +13,8 @@
 <br>
 <br>
 
-<a href="https://qiita.com/aoi-stella"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://x.com/MikhailHal"><img src="https://img.shields.io/badge/@MikhailHal-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://qiita.com/HalunoYo"><img src="https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://x.com/HalunoYo"><img src="https://img.shields.io/badge/@HalunoYo-000000?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ha-katou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>

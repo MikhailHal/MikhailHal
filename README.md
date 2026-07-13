@@ -2,8 +2,6 @@
 
 # Welcome to my README!
 
-**Software Engineer, Android** at [@bizreach-inc](https://github.com/bizreach-inc)  
-
 **最近はTOEFLやっててあまりプログラミングできてません！！！！！！！**
 
 <br>

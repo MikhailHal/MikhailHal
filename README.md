@@ -16,7 +16,7 @@
 
 <br>
 
-## OSS
+## My OSS
 
 <br>
 
@@ -26,7 +26,7 @@
 <a href="https://registry.modelcontextprotocol.io/v0/servers?search=io.github.MikhailHal/ariadne"><img src="https://img.shields.io/badge/MCP_Registry-listed-6E56CF?style=flat-square" /></a>
 <a href="https://github.com/MikhailHal/ariadne/stargazers"><img src="https://img.shields.io/github/stars/MikhailHal/ariadne?style=flat-square&color=success" /></a>
 
-AIエージェントがコードを編集した後、「今の変更で走らせるべきテストはどれ？」に秒で答えるMCPサーバー。
+AIエージェントがコードを編集した後、「今の変更で走らせるべきテストはどれ？」に秒で答えるMCPサーバー、後述するsazanamiを解析エンジンとして再利用しています。  
 Google製リファレンスアプリ [Now in Android](https://github.com/android/nowinandroid)（34モジュール）で実測し、**約4秒 / テストクラス選択率 25 of 27** を確認しています。
 
 > 🎉 **世界のMCPサーバーを集めた [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) に掲載されました**

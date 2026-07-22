@@ -1,8 +1,5 @@
 <div align="center">
 
-<img width="300" height="300" alt="6_neko" src="https://github.com/user-attachments/assets/e205af02-1bc0-4d9c-a8ee-96ac9561c7e2" />
-
-
 # 👋 Welcome to my profile!
 
 ### Android Engineer / OSS Developer

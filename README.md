@@ -24,7 +24,7 @@ I talked about the `astra` series.
 I also explained how we can apply graph theory to the field of Affected Test Selection by utilizing `Kotlin Analysis API standalone`.
 
 # 🚀Open Source Software
-## [sazamai](https://github.com/sazanami-lab/sazanami)
+## [sazanami](https://github.com/sazanami-lab/sazanami)
 <p align="start">
     <a href="https://plugins.gradle.org/plugin/io.github.mikhailhal.sazanami"><img src="https://img.shields.io/gradle-plugin-portal/v/io.github.mikhailhal.sazanami?style=flat-square&logo=gradle&label=Gradle%20Plugin" alt="Gradle Plugin Portal"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License"></a>
